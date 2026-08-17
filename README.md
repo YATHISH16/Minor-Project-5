@@ -199,14 +199,6 @@ Aspiring Data Analyst | Excel | SQL | Python | Data Analytics
 
 ---
 
-## 🔗 Project Repository
-
-GitHub Repository:
-
-**[Add your GitHub repository link here]**
-
----
-
 ## ⭐ If you found this project useful
 
 Feel free to explore the workbook, review the formulas, and connect with me on LinkedIn.
